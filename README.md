@@ -5,4 +5,5 @@
 
 ### DOWNLOAD ON GOOGLE PLAY STORE: https://play.google.com/store/apps/details?id=com.FBRGames.BallE
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ICjfS2y6YR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### WATCH TRAILER FROM YOUTUBE:
+[![BALL-E](https://img.youtube.com/vi/ICjfS2y6YR8/0.jpg)](https://www.youtube.com/watch?v=ICjfS2y6YR8)
