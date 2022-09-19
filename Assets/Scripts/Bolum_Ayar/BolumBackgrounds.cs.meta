@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d774feb1c470f8b4fa7b875d9c55542b
+timeCreated: 1486595692
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Blue_Dotted: {fileID: 21300000, guid: ff252efb47d856b46917809730180e3f, type: 3}
+  - Green_Dotted: {fileID: 21300000, guid: 22337478560c08f4da99f5874b9eb190, type: 3}
+  - Orange_Dotted: {fileID: 21300000, guid: fa9232cf01558454db884c4d06cfe1c3, type: 3}
+  - Red_Dotted: {fileID: 21300000, guid: 66c20387c13cc7c44b50184f43f49ffb, type: 3}
+  - Yellow_Dotted: {fileID: 21300000, guid: 773699b07c2e7d74eb07136283daad9e, type: 3}
+  - ArkaPlanAcilis: {instanceID: 0}
+  - ArkaPlanKapanis: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

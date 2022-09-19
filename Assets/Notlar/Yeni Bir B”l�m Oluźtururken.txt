@@ -1,0 +1,11 @@
+Camera Far 15 ayarlanacak
+
+Bolum43den sonralar Bolum adýna çevrilcek.
+Önemli Prefabsdan 
+BG20den sonra
+Bolum prefablarý oyuna çekilecek 2 karaktere MoveSayisi animatorü eklenecek..
+
+Tüm bariyer touch noktalarýna BarrierTouchClick scripti atanacak!
+
+
+44 den sonra yatayda 6 kare

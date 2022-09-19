@@ -1,0 +1,12 @@
+1 ReklamVideo -> 25 COIN
+1 Can Bedeli -> 20 COIN
+
+
+1 Dolar -> 1000 COIN
+2 Dolar -> 2500 COIN
+
+1 Dolar -> NOADS
+
+// 23.12.16
+	Artma limiti 10
+ 5 dakikada bir +1 can	

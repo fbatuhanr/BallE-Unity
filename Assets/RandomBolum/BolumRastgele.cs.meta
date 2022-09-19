@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: d6918f9c94689f64aa873a54f3eeb24d
+timeCreated: 1485961084
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - VerticalBarrier: {fileID: 1000013373689020, guid: c0c482a1b9dc7e24ab57b2745202aad9,
+      type: 2}
+  - HorizontalBarrier: {fileID: 1000010249702818, guid: 8ce5509f36bd360479d22314b68db2af,
+      type: 2}
+  - GreenDoor: {fileID: 1000014049366796, guid: be982d5f055e81645bec92230f8061bd,
+      type: 2}
+  - YellowDoor: {fileID: 1000012946892042, guid: 25f910e05ed8dbc459b737c3df0df184,
+      type: 2}
+  - BlueDoor: {fileID: 1105690994511376, guid: 0a49d0a416994864093362db565dd9e6, type: 2}
+  - GreenBall: {fileID: 1000012558671770, guid: 4d13d30c092bffa4fafc9440a066f1d7,
+      type: 2}
+  - YellowBall: {fileID: 1000012119018352, guid: 37d947a8418cad74fb5f7f72b647b6a9,
+      type: 2}
+  - BlueBall: {fileID: 1000011498573242, guid: 49f1a19c624b8e24ea4119e1cb6d2bce, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 48fe832d9d35bfa41afcec007719256d
+timeCreated: 1487003908
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Parildayan_Circle: {fileID: 21300000, guid: 06589bff6d6046245a3b35a972e316ad,
+      type: 3}
+  - Parildamayan_Circle: {fileID: 21300000, guid: 210ef1123d2625540b028629818f5dc4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
